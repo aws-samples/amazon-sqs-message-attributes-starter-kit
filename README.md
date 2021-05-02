@@ -18,8 +18,8 @@ This is a companion source code for **Amazon Compute Blog - Enhancing message-ba
 
  1. Clone this starter kit to your Laptop / MacBook
  1. It has Maven nature, so you can import it to your IDE
- 1. Create an SQS queue of type Standard. Make a note of its URL
- 1. Create an SQS queue of type FIFO. Make a note of its URL
+ 1. Create an SQS queue of type Standard. Make a note of its URL and update relevant Java classes per inline instructions in the code
+ 1. Create an SQS queue of type FIFO. Make a note of its URL and update relevant Java classes per inline instructions in the code
 
 ## Functional Overview
 
