@@ -1,4 +1,4 @@
-# Amazon SQS - Message Attributes in Action
+# Amazon SQS - Message Attributes starter kit
 
 This is a companion source code for **Amazon Compute Blog - Enhancing message-based applications with Message Attributes**. The samples in this project demonstrate how to use Message Attributes feature of Amazon Simple Queue Service (SQS).
 
